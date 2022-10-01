@@ -1,0 +1,36 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.encabezado{
+    background-color: grey;
+    color: white;
+    border: 3px solid black;
+}
+
+h2{
+    line-height: 25px;
+}
+
+section{
+    border: 3px solid black;
+}
+
+.section2{
+    background-color: grey;
+    color: white;
+}
+
+hr{
+    color: gray;
+}
+
+.section4{
+    background-color: grey;
+    color: white;
+}
+
+a{
+    color: white;
+}
