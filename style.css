@@ -1,0 +1,195 @@
+*{padding: 0%;
+    margin: 0%;
+    list-style: none;}
+
+header{position: relative;
+background-color:cadetblue;
+width: 1107px;
+height: 90px;
+margin: 10px auto;
+}
+
+#Title{
+    position: relative;
+    top: 20px;
+    text-align: center;
+    color: white;
+}
+
+#n{
+    position: relative;
+    top: 20px;
+    text-align: center;
+    color: white;
+}
+
+nav{
+    margin: 20px auto;
+    position: relative;
+    background-color:rgba(100, 148, 237, 0.685);
+    width: 1107px;
+    height: 90px;
+}
+
+#I{
+    top: 20px;
+    margin: 10px auto;
+    color: black;
+    background-color:white;
+    border-radius: 45px;
+    position: absolute;
+    float: left;
+    left: 360px;
+    width: 98px;
+    height: 27px;
+    text-align: center;
+    text-decoration: none;
+}
+
+#A{
+    top: 20px;
+    margin: 10px auto;
+    color: black;
+    background-color:beige;
+    border-radius: 45px;
+    position: absolute;
+    float: left;
+    left: 499px;
+    width: 98px;
+    height: 27px;
+    text-align: center;
+    text-decoration: none;
+}
+
+#C{
+    top: 20px;
+    margin: 10px auto;
+    color: black;
+    background-color:bisque;
+    border-radius: 45px;
+    position: absolute;
+    float: left;
+    right: 370px;
+    width: 98px;
+    height: 27px;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+#Sc1{
+    position: relative;
+    width: 1107px;
+    height: 320px;
+    background-color: lightslategray;
+    margin: 20px auto;
+}
+
+#art1{
+    position: absolute;
+    width: 233px;
+    height: 200px;
+    margin: 50px auto;
+    left: 100px;
+    padding: 10px;
+}
+
+#ROBOTICA{
+    width: 150px;
+    height: 150px;
+    margin: 10px 10px;
+}
+
+figure{
+    margin:0;
+    display: inline-block;
+    position: relative;
+}
+
+figcaption{
+    display: none;
+    position: absolute;
+    left: 0px;
+    bottom:0px;
+    background-color: darkgray;
+    width: 94%;
+    padding: 7%;
+    margin: 5px auto;
+}
+figure:hover figcaption{
+    display: block;
+}
+
+#art2{
+    position: absolute;
+    width: 233px;
+    height: 200px;
+    margin: 50px auto;
+    left: 450px;
+    padding: 10px;
+}
+
+#REALIDAD{
+    width: 150px;
+    height: 150px;
+    margin: 10px 10px;
+}
+
+#art3{
+    position: absolute;
+    width: 233px;
+    height: 200px;
+    margin: 50px auto;
+    right: 40px;
+    padding: 10px;
+}
+
+#LENGUAJES{
+    width: 150px;
+    height: 150px;
+    margin: 10px 10px;
+}
+
+#Sc2{
+    margin: 20px auto;
+    position: relative;
+    width: 1107px;
+    height: 250px; 
+    background-color: rgb(169, 169, 169);
+}
+
+#Alargada{
+    width: 1107px;
+    height: 250px; 
+    opacity: 50%;
+}
+
+#name{
+    position: absolute;
+    text-align: center;
+    top: 10px;
+    left: 400px;
+    margin-top: 95px;
+}
+
+footer{
+    background-color:cadetblue;
+    width: 1107px;
+    height: 180px;
+    margin: 20px auto;
+}
+#logoutp{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 100px;
+    margin: 10px;
+}
+
+#fisc{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    right: 100px;
+    margin: 10px;
+}
