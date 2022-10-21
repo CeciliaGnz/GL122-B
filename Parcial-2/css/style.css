@@ -43,56 +43,34 @@ color: #1C1616;
 opacity: .7;
 }
 
-.cuadrito1{
+.cuadrito{
 background-color: #e2d1ba;
 position: absolute;
 width: 17%;
 height: 320px;
+}
+
+#c1{
 left: 13%;
 top: 280px;
 }
-
-.cuadrito2{
-background-color: #e2d1ba;
-position: absolute;
-width: 17%;
-height: 320px;
+#c2{
 left: 43%;
 top: 280px;
 }
-
-.cuadrito3{
-background-color: #e2d1ba;
-position: absolute;
-width: 17%;
-height: 320px;
+#c3{
 left: 73%;
 top: 280px;
 }
-
-.cuadrito4{
-background-color: #e2d1ba;
-position: absolute;
-width: 17%;
-height: 320px;
+#c4{
 left: 13%;
 top: 680px;
 }
-
-.cuadrito5{
-background-color: #e2d1ba;
-position: absolute;
-width: 17%;
-height: 320px;
+#c5{
 left: 43%;
 top: 680px;
 }
-
-.cuadrito6{
-background-color: #e2d1ba;
-position: absolute;
-width: 17%;
-height: 320px;
+#c6{
 left: 73%;
 top: 680px;
 }
